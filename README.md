@@ -1,2 +1,5 @@
-# nisarg
-Digital visiting card — NISARG [cb:b8cc8cd7-15b3-4fe1-8e23-8717f5d403df]
+# NISARG — Digital Visiting Card
+
+Live site: https://spectertechnologies9-automation.github.io/nisarg/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
